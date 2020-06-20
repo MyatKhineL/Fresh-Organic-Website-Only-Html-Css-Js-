@@ -149,9 +149,7 @@ h2{
     width: 250px;
     height: 200px;
 }
-.cardone :hover{
-    box-shadow:0px 15px 30px rgba(0,0,0,0.20), 5px 10px 8px rgba(0,0,0,0.22); ;
-}
+
 #leaf{
     width: 250px;
     height: 200px;
